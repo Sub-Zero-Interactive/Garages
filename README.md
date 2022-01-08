@@ -3,7 +3,7 @@ This is a Garage system that allows you to store and retrieve Vehicles in custom
 
 ## Features
 
--Low Client-Sided ms
+- Low Client-Sided ms
 - JSON Storage for vehicle
 - Clean NUI for creation
 - Individual Parking Bays/Lots
