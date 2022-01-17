@@ -35,7 +35,7 @@ This is a Garage system that allows you to store and retrieve Vehicles in custom
 ## License
 szi_garage - This is a Garage system that allows you to store and retrieve Vehicles in customised Parking Lots and Parking Bays.
 
-Copyright (C) 2021 Sub-Zero Interactive 
+Copyright (C) 2022 Sub-Zero Interactive 
 
 All rights reserved.
 Even if 'All rights reserved' is very clear :
